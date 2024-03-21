@@ -7,4 +7,3 @@ Minecraftのデータパック、リソースパックなどを扱います。
 <h2>活動場所</h2>
 
 + [ナツメイク！（ブログ）](https://natsumake.com/)
-+ [Twitter（X）](https://twitter.com/natsume_717b)
