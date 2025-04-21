@@ -1,9 +1,9 @@
-<h2>概要</h2>
+## 紹介
 
 Minecraftのデータパック、リソースパックなどを扱います。
 
-ブログで解説した内容のサンプルを置いているので、ぜひ参考にしてください。
+## 活動
 
-<h2>活動場所</h2>
-
++ [LaspberryAqua](https://lzaq.net/)
+  + [X](https://x.com/LzAq_MC)
 + [ナツメイク！（ブログ）](https://natsumake.com/)
